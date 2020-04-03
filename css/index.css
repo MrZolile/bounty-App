@@ -7,7 +7,7 @@ body{
     flex-flow: column;
     justify-content: center;
     min-width: 1200px;
-    background: #fff;
+    background: #003366;
 }
 .inner-wrapper{
     width: 100%;
